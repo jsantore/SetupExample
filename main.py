@@ -1,7 +1,6 @@
 
 print("Hi Comp151")
-print("Welcome to a crazy semester")
+print("Welcome to the second week")
 numberStorage = 10
-print(numberStorage)
 numberStorage = numberStorage + 40
 print(numberStorage)
